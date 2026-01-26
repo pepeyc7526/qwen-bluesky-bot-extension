@@ -49,7 +49,7 @@ On first click, a popup will ask for your **GitHub Personal Access Token (PAT)**
 
 ### 3. Run Your Bot!
 Click the extension icon → **"Run Bluesky Bot"**  
-✅ Done! Check your [Actions tab](https://github.com/pepeyc7526/qwen-bluesky-bot/actions) for progress.
+✅ Done! Check your **Actions tab** for progress.
 
 ---
 
